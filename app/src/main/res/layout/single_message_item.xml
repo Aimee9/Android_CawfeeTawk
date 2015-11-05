@@ -3,4 +3,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Here is where the posts go"
+        android:id="@+id/messageLabel"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"/>
+
 </RelativeLayout>
