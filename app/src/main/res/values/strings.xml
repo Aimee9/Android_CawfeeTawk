@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CawfeeTawk</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_paragraph">Need a place to kvetch?  Don\'t get all farklempt.  I\'ll give you a topic and you can discuss amongst yourselves.</string>
+    <string name="title_activity_messages">MessagesActivity</string>
+</resources>
