@@ -54,7 +54,7 @@ public class ListAdapter extends BaseAdapter{
         }
 
         Message message = mMessages.get(position);
-        holder.messageLabel.setText(message.getContent());
+        holder.messageLabel.setText(message.getMessageText());
 
         return convertView;
     }
